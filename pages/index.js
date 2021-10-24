@@ -42,7 +42,7 @@ export default function Home() {
         className="flex w-full p-5 justify-between text-sm text-gray-700"
       >
         {/*left*/}
-        <div className="flex space-x-4 itmes-center">
+        <div className="flex space-x-4 itmes-center mt-[11px]">
           <p className="link">About</p>
           <p className="link">Store</p>
         </div>
